@@ -1,0 +1,1 @@
+# [Yasutsuna Matayoshi | Meiji University](http://matayoshi.nkmr.io/#!index.md)
