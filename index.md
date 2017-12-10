@@ -1,5 +1,6 @@
 ## 更新履歴
-- 2017/12/02  newsにsongleハッカソンを追加しました `new!!`
+- 2017/12/10  研究実績,newsにWISS2017を追加しました `new!!`
+- 2017/12/02  newsにsongleハッカソンを追加しました
 - 2017/09/22  workに4作品を追加しました
 - 2017/09/04  ホームページを改築
 
@@ -24,5 +25,6 @@
 HSP , Processing , Java , PHP  ,JavaScript , C# , Unity など
 
 ## 研究実績
+- 又吉康綱, 久保田夏美, 斉藤絢基, 大島遼, 中村聡史, 鈴木正明: 平均手書きノート, 第25回インタラクティブシステムとソフトウェアに関するワークショップ (WISS 2017), 2017. [[論文]](http://www.wiss.org/WISS2017Proceedings/oral/21.pdf) [発表報告]
 - 又吉康綱, 久保田夏美, 斉藤絢基, 大島遼, 中村聡史, 鈴木正明: 自他との平均化により手書きをきれいにするシステムの提案, Webインテリジェンスとインタラクション研究会, 2017. [[発表報告]](http://nkmr-lab.org/news/arg-wi2-mojirage-matayoshi.html) `優秀研究賞`
 - 福地翼, 又吉康綱, 松井啓司, 中村聡史: IllumiFrame：錯視図形を利用した額縁型視聴体験拡張システム, 24th Workshop on Interactive Systems and Software (WISS 2016), 1-2, 2016. [[論文]](http://www.wiss.org/WISS2016Proceedings/demo/2-A17.pdf) [[発表報告]](http://nkmr-lab.org/news/wiss2016_illumiframe_fukuchi.html)
