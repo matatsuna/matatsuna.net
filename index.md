@@ -29,6 +29,9 @@
 ### 言語
 HSP , Processing , Java , PHP  ,JavaScript , C# , Unity など
 
+### 検定
+Unity Developer 検定試験 (2017年8月)
+
 ## 研究実績
 - Sakai S, Yanase Y, Matayoshi Y, Inami M: D-ball: virtualized sports in diminished reality. Proceedings of the First Superhuman Sports Design Challenge: First International Symposium on Amplifying Capabilities and Competing in Mixed Realities(SHS), No.6, 2018.[[論文]](https://dl.acm.org/citation.cfm?id=3210305)
 - Matayoshi Y, Oshima R, Nakamura S: Mojirage: average handwritten note. Proceedings of the 2018 International Conference on Advanced Visual Interfaces (AVI), No.74, 2018.[[論文]](https://dl.acm.org/citation.cfm?id=3206573)[[発表報告]](http://nkmr-lab.org/news/avi2018_mojirage_matayoshi.html)
