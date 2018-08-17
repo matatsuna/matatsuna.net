@@ -14,17 +14,23 @@ PDFからGyazoに変換！
 
 ![](https://i.gyazo.com/501c36374ee06717b5da041fe56cb2db.png)
 
+## GPSNS
+地図に位置情報付き写真をマッピングするシステム
+[GPSNS](https://service.matatsuna.net/gpsns)
+
+![](https://i.gyazo.com/49d79bd1905898412ef9c736ff420fff.jpg)
+
 ## tourismMap
 日本地図に観光地情報をマッピングするシステム
 [Github](https://github.com/matatsuna/tourismMap)
-[tourismMap](http://matayoshi.nkmr.io/work/webcontents/tourism/)
+[tourismMap](https://tourism.matatsuna.net/)
 
 ![](img/9e00da288a55d2cab5828b90f9eeb51f.png)
 
 ## weatherMap
 日本地図に2008年の降雨情報をマッピングするシステム 
 [Github](https://github.com/matatsuna/weatherMap)
-[wheatherMap](http://matayoshi.nkmr.io/work/webcontents/weather/)
+[wheatherMap](http://weather.matatsuna.net/)
 
 ![](img/335d6b0ccf04f53478bc38a9e09f5aa5.png)
 
@@ -59,14 +65,22 @@ Googleマップのピンチインとピンチアウトの再実装
 
 ## お天気実況bot
 ゲリラ豪雨などを検知するため毎時の天気図をお届けするbot
+[Github](https://github.com/matatsuna/radar_nowcast)
 [gimmick:TwitterFollow](@radar_nowcast)
 
 ![](img/4fe206ae5ebbe59ec88b9b5343787c5d.png)
 
-## javascriptでBadApple!!
-[はてなブログ](http://matatsuna.hatenablog.com/entry/2016/10/19/151337)
-[javascriptでBadApple!!](http://matayoshi.nkmr.io/js/badapple/)
+## TableタグのCSSでBadApple!!
+サクサク軽量版のBadApple芸
+[Github](https://github.com/matatsuna/badapple)
+[TableタグのCSSでBadApple!!](https://service.matatsuna.net/badapple/)
 
+![](https://i.gyazo.com/78f5fe0060ef5156d071adeda35e29d2.gif)
+
+## javascriptでBadApple!!
+【注意！】ハイスペックの機器で実行しないと停止する恐れがあります。
+[はてなブログ](http://matatsuna.hatenablog.com/entry/2016/10/19/151337)
+[javascriptでBadApple!!](https://service.matatsuna.net/badapple-old/)
 
 ![](img/2f0bc10d4e0ea58ede404b3c8163b137.png)
 
@@ -77,24 +91,30 @@ processingを使ってweb上で画像を加工してTwitterで画像とソース
 
 ![](img/CkmVQGzUoAEmnOR.jpg)
 
+## pictureadd-songle
+pictureaddを使って音楽動画の歌詞を画像検索して表示
+[pictureadd-songle](https://service.matatsuna.net/pictureadd-songle)
+
+![](https://i.gyazo.com/d5c7b6e43c6935dfa8171868c6c1c165.jpg)
+
 ## pictureadd
 どんな文章にも関連した画像を付けてツイートをするwebツール
 [はてなブログ](http://matatsuna.hatenablog.com/entry/2016/06/24/110705)
-[pictureadd](http://pictureadd.azurewebsites.net)
+[pictureadd](https://pictureadd.matatsuna.net)
 
 ![](img/17a0dfd56b484cdb741e897e57da0fc7.png)
 
 ## pinhashtag
 ハッシュタグを固定してツイートをするwebツール
 [はてなブログ](http://matatsuna.hatenablog.com/entry/2016/06/15/005523)
-[pinhashtag](http://pinhashtag.azurewebsites.net)
+[pinhashtag](https://service.matatsuna.net/pinhashtag)
 
 ![](img/976cb4a35495cc9b468e978835da9176.png)
 
 ## 一次元バーコードジェネレータ
 13ケタの一次元バーコードを作成するツール
 [はてなブログ](http://matatsuna.hatenablog.com/entry/2016/05/03/232514)
-[一次元バーコードジェネレータ](http://matayoshi.nkmr.io/php/barcode/)
+[一次元バーコードジェネレータ](https://service.matatsuna.net/barcode/)
 
 ![](img/e5eabe4faf1ae552e50b86cb06ea1238.png)
 
