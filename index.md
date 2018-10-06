@@ -1,5 +1,6 @@
 ## 更新履歴
-- 2018/08/17  workにGPSNS,pictureadd-songleなどを追加し、システムURLの更新などをしました `new!!`
+- 2018/10/06  workにcodePrintを追加しました `new!!`
+- 2018/08/17  workにGPSNS,pictureadd-songleなどを追加し、システムURLの更新などをしました
 - 2018/07/10  研究業績にSHSを追加しました 
 - 2018/05/31  研究実績にavi2018を追加しました
 - 2018/04/12  Inkathonについて追加しました
@@ -8,7 +9,6 @@
 - 2017/12/10  研究実績,newsにWISS2017を追加しました
 - 2017/12/02  newsにsongleハッカソンを追加しました
 - 2017/09/22  workに4作品を追加しました
-- 2017/09/04  ホームページを改築
 
 ## プロフィール
 ![matatsuna](img/matatsuna.jpg)
