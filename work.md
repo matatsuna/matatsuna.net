@@ -2,8 +2,8 @@
 
 ## codePrint
 ハイライト付きでソースコードを印刷
-<!-- [Github](https://github.com/matatsuna/pdf2gyazo) -->
-<!-- [はてなブログ](http://matatsuna.hatenablog.com/entry/2018/02/04/014139) -->
+[Github](https://github.com/matatsuna/codeprint)
+[はてなブログ](https://matatsuna.hatenablog.com/entry/2018/10/14/225715)
 [codePrint](https://service.matatsuna.net/codeprint/)
 
 ![](https://i.gyazo.com/b42be61be7f3762df141844efaae27d8.png)
