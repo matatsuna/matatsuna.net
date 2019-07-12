@@ -1,6 +1,6 @@
 # 作品紹介
 
-## codePrint
+## secret-base
 あの花ED secret base ～君がくれたもの～ をブラウザ上で再現！
 [Github](https://github.com/matatsuna/secret-base)
 [secret-base](https://service.matatsuna.net/secret-base/)
