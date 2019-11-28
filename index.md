@@ -39,7 +39,7 @@ Unity Developer 検定試験 (2017年8月)
 ### 国内会議（査読あり）
 
 - 又吉康綱, 久保田夏美, 斉藤絢基, 大島遼, 中村聡史, 鈴木正明. 平均手書きノート. 25th Workshop on Interactive Systems and Software（WISS2017）, 2017.[[論文]](http://www.wiss.org/WISS2017Proceedings/oral/21.pdf) [[発表報告]](http://nkmr-lab.org/news/wiss2017_mojirage_matatsuna.html)
-- 又吉康綱, 小山裕己, 深山覚, 藤真孝, 中村聡史. 画像の類似度を用いたダンス動画モーション訂正手法. 27th Workshop on Interactive Systems and Software（WISS2019）, 2019. (to appear)
+- 又吉康綱, 小山裕己, 深山覚, 藤真孝, 中村聡史. 画像の類似度を用いたダンス動画モーション訂正手法. 27th Workshop on Interactive Systems and Software（WISS2019）, 2019.[[論文]](https://www.wiss.org/WISS2019Proceedings/oral/2.pdf) [[発表報告]](http://nkmr-lab.org/news/wiss2019_dance_refine_matayoshi.html)
 
 ### 国内会議（査読なし）
 
