@@ -35,6 +35,7 @@ Unity Developer 検定試験 (2017年8月)
 
 - Matayoshi Y, Oshima R, Nakamura S. Mojirage: average handwritten note. Proceedings of the 2018 International Conference on Advanced Visual Interfaces (AVI 2018), No.74, 2018.[[論文]](https://dl.acm.org/citation.cfm?id=3206573)[[発表報告]](http://nkmr-lab.org/news/avi2018_mojirage_matayoshi.html)
 - Sakai S, Yanase Y, Matayoshi Y, Inami M. D-ball: virtualized sports in diminished reality. Proceedings of the First Superhuman Sports Design Challenge: First International Symposium on Amplifying Capabilities and Competing in Mixed Realities(SHS), No.6, 2018.[[論文]](https://dl.acm.org/citation.cfm?id=3210305)
+- Matayoshi Y, Nakamura S. Abstract thinking description system for programming education facilitation. 22th International Conference on Human-Computer Interaction, 2020 (to appear).
 
 ### 国内会議（査読あり）
 
@@ -47,7 +48,10 @@ Unity Developer 検定試験 (2017年8月)
 - 簗瀬洋平, 又吉康綱, 坂井俊介, 稲見昌彦. D-Ball縮減現実を用いたスポーツ競技のデザイン, エンタテインメントコンピューティング（EC）, 2017.[[論文]](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=185082&item_no=1)
 - 佐々木美香子, 斉藤絢基, 新納真次郎, 又吉康綱, 中村聡史, 鈴木正明. 手書きとフォントの融合による視認性向上と書き手の抵抗軽減に関する調査, ヒューマンコンピュータインタラクション（HCI）, 2018.[[論文]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=185434&item_no=1&page_id=13&block_id=8)
 - 坂井俊介, 又吉康綱, 簗瀨洋平, 檜山敦, 稲見昌彦. D-Ball: リアルタイム色抽出動画処理技術を用いた縮減現実における球技体験設計, エンタテインメントコンピューティングシンポジウム2018（EC2018）, p.267-270, 2018.[[論文]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=191202&item_no=1&page_id=13&block_id=8)
-- 又吉康綱, 中村聡史. プログラミング教育円滑化のための抽象的思考記述システム, ヒューマンコンピュータインタラクション（HCI）, 2019.[[論文]](https://dl.nkmr-lab.org/papers/190)
+- 又吉康綱, 中村聡史. プログラミング教育円滑化のための抽象的思考記述システム, ヒューマンコンピュータインタラクション（HCI）, 2019.[[論文]](https://dl.nkmr-lab.org/papers/190) [[発表報告]](http://nkmr-lab.org/news/sighci184_programming_matayoshi.html)
+- 二宮洸太, 又吉康綱, 中村聡史. 崩れた手書き文字データセット構築と平均化による可読性向上の検証, ヒューマンコンピュータインタラクション（HCI）, 2019.[[論文]](https://dl.nkmr-lab.org/papers/193) [[発表報告]](http://nkmr-lab.org/news/sighci184_avg_poorhw_ninomiya.html)
+- 二宮洸太, 又吉康綱, 中村聡史, 鈴木正明, 掛晃幸, 石丸築. 平均化による崩れ文字可読化のための補正文字選定手法, データ工学と情報マネジメントに関するフォーラム（DEIM）, 2020.
+- 松山直人, 又吉康綱, 中村聡史. メッセージ画面のスクリーンショットを用いた横断型返信忘れ防止手法の検討, グループウェアとネットワークサービス研究発表会（GN）, 2020.
 
 ### ポスター発表
 
