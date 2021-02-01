@@ -41,6 +41,7 @@ Unity Developer 検定試験 (2017年8月)
 
 - 又吉康綱, 久保田夏美, 斉藤絢基, 大島遼, 中村聡史, 鈴木正明. 平均手書きノート. 25th Workshop on Interactive Systems and Software（WISS2017）, 2017.[[論文]](http://www.wiss.org/WISS2017Proceedings/oral/21.pdf) [[発表報告]](http://nkmr-lab.org/news/wiss2017_mojirage_matatsuna.html)[[システム]](https://mojirage.com)
 - 又吉康綱, 小山裕己, 深山覚, 藤真孝, 中村聡史. 画像の類似度を用いたダンス動画モーション訂正手法. 27th Workshop on Interactive Systems and Software（WISS2019）, 2019.[[論文]](https://www.wiss.org/WISS2019Proceedings/oral/2.pdf) [[発表報告]](http://nkmr-lab.org/news/wiss2019_dance_refine_matayoshi.html)[[システム]](https://mongle.com)
+- 又吉康綱, 中村聡史. askTA : 消極的な受講生でも質問可能なオンライン演習講義支援システム. 28th Workshop on Interactive Systems and Software（WISS2020）, 2020.[[論文]](https://dl.nkmr-lab.org/papers/289) [[発表報告]](http://nkmr-lab.org/news/wiss2020_askta_matayoshi.html)
 
 ### 国内会議（査読なし）
 
@@ -52,7 +53,10 @@ Unity Developer 検定試験 (2017年8月)
 - 二宮洸太, 又吉康綱, 中村聡史. 崩れた手書き文字データセット構築と平均化による可読性向上の検証, ヒューマンコンピュータインタラクション（HCI）, 2019.[[論文]](https://dl.nkmr-lab.org/papers/193) [[発表報告]](http://nkmr-lab.org/news/sighci184_avg_poorhw_ninomiya.html)
 - 二宮洸太, 又吉康綱, 中村聡史, 鈴木正明, 掛晃幸, 石丸築. 平均化による崩れ文字可読化のための補正文字選定手法, 第12回データ工学と情報マネジメントに関するフォーラム（DEIM2020）, Issue.A2-3, No.1-8, 2020.[[論文]](https://dl.nkmr-lab.org/papers/239)[[発表報告]](http://nkmr-lab.org/news/deim2020_messyhandwriting_ninomiya.html)
 - 松山直人, 又吉康綱, 中村聡史. メッセージ画面のスクリーンショットを用いた横断型返信忘れ防止手法の検討, 情報処理学会 研究報告グループウェアとネットワークサービス（GN）, Vol.2020-GN-110, No.18, pp.1-8, 2020.[[論文]](https://dl.nkmr-lab.org/papers/238)[[発表報告]](http://nkmr-lab.org/news/gn110_reminder_matsuyama.html)
-- 又吉康綱, 中村聡史. typing.run: 初学者のプログラミング学習を支援するプログラムタイピングシステムの提案と実践, 情報処理学会 研究報告ヒューマンコンピュータインタラクション（HCI）, Vol.2020-HCI-189, No.1, pp.1-8, 2020.[[論文]](https://dl.nkmr-lab.org/papers/276)[[システム]](https://typing.run)
+- 又吉康綱, 中村聡史. typing.run: 初学者のプログラミング学習を支援するプログラムタイピングシステムの提案と実践, 情報処理学会 研究報告ヒューマンコンピュータインタラクション（HCI）, Vol.2020-HCI-189, No.1, pp.1-8, 2020.[[論文]](https://dl.nkmr-lab.org/papers/276)[[発表報告]](http://nkmr-lab.org/news/sighci184_programming_matayoshi.html)[[システム]](https://typing.run)
+- 青木由樹乃, 古市冴佳, 又吉康綱, 中村聡史, 掛晃幸, 石丸築. 多人数での手書き環境において文字の綺麗さが与える影響の調査, 情報処理学会 研究報告ヒューマンコンピュータインタラクション（HCI）, Vol.2020-HCI-190, No.24, pp.1-8, 2020.[[論文]](https://dl.nkmr-lab.org/papers/288)[[発表報告]](http://nkmr-lab.org/news/hci190_yosegaki_aoki.html)
+
+
 
 ### ポスター発表
 
@@ -66,3 +70,5 @@ Unity Developer 検定試験 (2017年8月)
 - 明治大学アカデミックフェス2017. 総合数理学部先端研究デモ・ポスター展示.
 - 又吉康綱. 自他との平均化により手書きをきれいにするシステムの提案. [優秀ステージ発表賞受賞](http://www.sigwi2.org/stagelist).
 - 又吉康綱, 上西隆平, 斉藤絢基, 新納真次郎, 大島遼. Inkathon with DOCOMO and Fujitsu. [審査員特別賞受賞](https://www.wacom.com/ja-jp/about-wacom/news-and-events/2018/1292).
+- 又吉康綱. 情報処理学会ヒューマンコンピュータインタラクション研究会. 2020年度学生奨励賞受賞者
+- 又吉康綱，中村聡史. WISS2020. [最優秀発表賞（一般）](https://www.wiss.org/WISS2020/award.html)
